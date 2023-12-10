@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.technicaltest.kouekamdev.enumerations.Sectors;
+import com.example.technicaltest.kouekamdev.entities.Sectors;
 import com.example.technicaltest.kouekamdev.repositories.SectorsRepositories;
 
 import lombok.AllArgsConstructor;

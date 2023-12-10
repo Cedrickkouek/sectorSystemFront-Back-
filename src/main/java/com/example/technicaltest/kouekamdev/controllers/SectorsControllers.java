@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.technicaltest.kouekamdev.enumerations.Sectors;
+import com.example.technicaltest.kouekamdev.entities.Sectors;
 import com.example.technicaltest.kouekamdev.services.SectorsServices;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;

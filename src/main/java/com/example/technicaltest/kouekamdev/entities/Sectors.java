@@ -1,4 +1,4 @@
-package com.example.technicaltest.kouekamdev.enumerations;
+package com.example.technicaltest.kouekamdev.entities;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
